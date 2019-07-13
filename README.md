@@ -25,8 +25,5 @@ sent to ESP for scoring as a base64 encoded file
 * `templates` - contains a simple html template 
 * `sample_test_images_retail` -  couple of sample images to test the app
 
-Other files - 
-
-ASTORE files that are model artifacts from the training process.
 
 
