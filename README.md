@@ -1,5 +1,4 @@
-###Sir Fred
- Flask App for Simple Image Recognition.
+### Sir Fred -  Flask App for Simple Image Recognition.
 Uses Fast & Reliable Event Driven Deployment with ESP. A quick usecase agnostic way to demonstrate
 the demo assets built with SAS DL & ESP.
 
